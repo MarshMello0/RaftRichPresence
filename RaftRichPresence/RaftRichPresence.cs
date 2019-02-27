@@ -20,7 +20,7 @@ public class DiscordJoinRequestEvent : UnityEngine.Events.UnityEvent<DiscordRpc.
 [ModAuthor(". Marsh.Mello .")]
 [ModIconUrl("https://www.shareicon.net/data/2017/06/21/887435_logo_512x512.png")]
 [ModWallpaperUrl("https://github.com/MarshMello0/RaftRichPresence/blob/master/Banner.png?raw=true")]
-[ModVersion("1.0.0")]
+[ModVersion("1.0.1")]
 [RaftVersion("Update 9 (3556813)")]
 public class RaftRichPresence : Mod
 {
