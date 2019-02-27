@@ -19,7 +19,7 @@ public class DiscordJoinRequestEvent : UnityEngine.Events.UnityEvent<DiscordRpc.
 [ModDescription("Adds discord's Rich Presence to your game, so you can show off what your upto in raft")]
 [ModAuthor(". Marsh.Mello .")]
 [ModIconUrl("https://www.shareicon.net/data/2017/06/21/887435_logo_512x512.png")]
-[ModWallpaperUrl("")]
+[ModWallpaperUrl("https://github.com/MarshMello0/RaftRichPresence/blob/master/Banner.png?raw=true")]
 [ModVersion("1.0.0")]
 [RaftVersion("Update 9 (3556813)")]
 public class RaftRichPresence : Mod
